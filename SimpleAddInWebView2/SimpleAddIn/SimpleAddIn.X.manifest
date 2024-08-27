@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+
+  <assemblyIdentity name="SimpleAddIn" version="1.0.0.0"></assemblyIdentity>
+
+  <clrClass clsid="{d98dde2b-db2c-4a1d-b94f-d7fba6d3d086}" progid="SimpleAddIn.StandardAddInServer" threadingModel="Both" name="SimpleAddIn.StandardAddInServer" runtimeVersion=""></clrClass>
+
+  <file name="SimpleAddIn.dll" hashalg="SHA1"></file>
+
+</assembly>

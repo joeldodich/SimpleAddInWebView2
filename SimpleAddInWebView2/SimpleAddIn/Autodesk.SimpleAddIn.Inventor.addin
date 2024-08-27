@@ -1,0 +1,14 @@
+<Addin Type="Standard">
+  <!--Created for Autodesk Inventor Version 29.0-->
+  <ClassId>{d98dde2b-db2c-4a1d-b94f-d7fba6d3d086}</ClassId>
+  <ClientId>{d98dde2b-db2c-4a1d-b94f-d7fba6d3d086}</ClientId>
+  <DisplayName>SimpleAddIn</DisplayName>
+  <Description>SimpleAddIn</Description>
+  <Assembly>SimpleAddIn.dll</Assembly>
+  <LoadOnStartUp>1</LoadOnStartUp>
+  <UserUnloadable>1</UserUnloadable>
+  <Hidden>0</Hidden>
+  <SupportedSoftwareVersionGreaterThan>28..</SupportedSoftwareVersionGreaterThan>
+  <DataVersion>1</DataVersion>
+  <UserInterfaceVersion>1</UserInterfaceVersion>
+</Addin>
